@@ -5,7 +5,7 @@
 
 <p align="center"><i>This project has been created as the central repository for the NewsDen infrastructure</i></p>
 
-<h1 align="center">📰🌍 News Den - The Backend 🌍📰</h1>
+<h1 align="center">📰🌍 NewsDen - The Backend 🌍📰</h1>
 <p align="center"><b><em>Designed to empower independent journalism.</em></b></p>
 
 ---
@@ -116,6 +116,6 @@ If you made it this far…width="800"
 Merry Christmas.
 Take a break. Drink water. Maybe eat an arepa.
 
-The future of journalism, is [here](https://github.com/Raccoonatic/News-Den).
+The future of journalism, is [here](https://github.com/Raccoonatic/NewsDen).
 
 📰✨💜
